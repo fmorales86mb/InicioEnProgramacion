@@ -1,0 +1,6 @@
+C:\Users\Moncho\Desktop\Curso ASP.NET\Prueba\PruebaClase1\Entidades\bin\Debug\Entidades.dll
+C:\Users\Moncho\Desktop\Curso ASP.NET\Prueba\PruebaClase1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Moncho\Desktop\Curso ASP.NET\Prueba\PruebaClase1\Entidades\obj\Debug\Entidades.dll
+C:\Users\Moncho\Desktop\Curso ASP.NET\Prueba\PruebaClase1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Moncho\Desktop\Curso ASP.NET\Prueba\PruebaClase1\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Moncho\Desktop\Curso ASP.NET\Prueba\PruebaClase1\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache

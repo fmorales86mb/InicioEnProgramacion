@@ -1,0 +1,56 @@
+<%--
+Plantilla de máscara predeterminada. Las siguientes máscaras se proporcionan sólo como ejemplos.
+
+1. Máscara de control con nombre. SkinId debería definirse de forma única porque
+no se permite que haya varios SkinId por tipo de control en el mismo tema.
+
+<asp:GridView runat="server" SkinId="gridviewSkin" BackColor="White" >
+   <AlternatingRowStyle BackColor="Blue" />
+</asp:GridView>
+
+2. Máscara predeterminada. Skinid no está definido Sólo se permite 
+   una máscara de control por tipo de control en el mismo tema.
+
+<asp:Image runat="server" ImageUrl="~/images/image1.jpg" />
+--%>
+
+<%--
+       ***********************************************
+       ESTILO DE ETIQUETAS POR DEFAULT
+       ***********************************************
+--%>
+
+ <asp:Label runat="server"
+            Font-Names="Verdana" 
+            Font-Size="12pt" 
+            ForeColor="red" >
+ </asp:Label>
+
+<%--
+       *******************************************
+       ESTILO DE ETIQUETAS MODERNO
+       ******************************************
+--%>
+
+ <asp:Label 
+           SkinId="Moderno"
+           runat="server"
+           Font-Names="Arial" 
+           Font-Size="16pt" 
+           ForeColor="blue" >
+ </asp:Label>
+
+<%--
+       ****************************************
+       ESTILO DE ETIQUETAS CLASICO
+       ****************************************
+--%>
+
+ <asp:Label 
+           SkinId="Clasico"
+           runat="server"
+           Font-Names="Calibri" 
+           Font-Size="10pt" 
+           ForeColor="green" >
+ </asp:Label>
+

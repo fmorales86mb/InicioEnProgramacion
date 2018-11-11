@@ -1,0 +1,27 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Prueba_clase1.App.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Aplicacion</title>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    <div>
+        <asp:ContentPlaceHolder ID="PruebaCPH" runat="server">
+
+        </asp:ContentPlaceHolder>
+    </div>
+
+    </form>
+</body>
+</html>

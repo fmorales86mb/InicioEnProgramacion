@@ -1,0 +1,123 @@
+Programación:
+=============
+
+Pasos: 
+
+1) Diseño:
+----------
+
+Definimos los objetos y cuales van a ser las funcionalidades de cada uno empezando por los objetos exteriores y después pasando a los interiores
+Eso lo escribimos en un gráfico haciendo un círculo para cada objeto y luego una flecha que sale del círculo con el nombre de la funcionalidad.
+Los objetos internos se dibujan adentro del objeto exterior.
+
+Luego pasamos eso a un archivo de texto para comenzar con la programación. 
+En esta etapa entonces, lo que tenemos que presentar es el diagrama con el diseño. 
+Tiene que estar terminado antes de comenzar con la siguiente etapa. 
+De todas formas siempre se puede volver a la etapa anterior y cambiar las cosas si vemos que hay algo que modificar.
+
+2) Programación:
+----------------
+
+En esta etapa vamos a implementar las funcionalidades que definimos en la etapa de diseño. 
+Esto es especificar con mayor nivel de presición el comportamiento qeu va a tener cada una de estas funcionalidaes. 
+Para eso vamos a usar un pseudo lenguaje (en realidad se llama pseudocódigo) con el que vamos a trabajar. 
+Este lenguaje es útil solo para fines de aprender por que no podemos escribirlo en la máquina, pero está muy cercano a lo que sería luego 
+un lenguaje de programación.
+
+Sintaxis:
+---------
+
+Vamos a implementar las funcionalidades que definimos en la etapa de diseño para cada objeto. 
+La sintaxis para definir una funcionalidad es la siguiente:
+
+aire:encender () {
+	pantalla.prender ()
+	pantalla.mostrar ("hola")
+}
+
+En este caso "aire" es el nombre del objeto, "encender" es el nombre de la funcionalidad. 
+Siempre se ponen los paréntesis al final y luego se encierra el código que implementa la funcionalidad entre llaves. 
+La primera la ponemos al final de todo el nombre de la funcionalidad y la última como una linea aparte. 
+En caso de que la funcionalidad reciba algún dato como parámetro vamos a ponerlo dentro de los paréntesis 
+y si hay mas de uno en una lista separada por comas.
+
+Para implementar la funcionalidad de un objeto podemos hacer uso de las otras funcionalidades del objeto y de las 
+funcionalidades de los objetos que están contenidos. 
+Asi es como para definir aire:encender () estamos llamando a pantalla.mostrar () y pantalla.prender. 
+Siempre nombramos al objeto, luego ponemos un punto y el nombre de la funcionaldiad. Si lleva parámetros los pasamos dentro de los paréntesis.
+
+Construcciones del lenguaje:
+----------------------------
+
+Para programar tenemos dos construcciones del lenguaje que vamos a usar. Una es iterativa y la otra condicional.
+
+Construcción condicional:
+-------------------------
+
+Es un punto en el programa donde el flujo de ejecución se divide en alternativas. 
+Puede preguntarse por condiciones puntuales o por descarte de la negación de todas las condiciones (el "sino").
+
+* Ejemplo 1:
+
+si (condicion) {
+}
+
+En este caso si la condición se cumple se ejecuta lo que está adentro de las llaves.
+
+* Ejemplo 2:
+
+si (condicion) {
+
+} sino {
+
+}
+
+En este caso si la condicion se cumple, se ejecuta lo que está en el primer bloque, sino lo que está en el segundo. 
+Siempre se ejecuta alguno de los dos.
+
+* Ejemplo 3:
+
+si (temperatura > 100) {
+	pantalla.mostrar ("muy caliente")
+	
+} sino si (temperatura < 0) {
+	pantalla.mostrar ("muy frio!!")
+	
+} sino {
+	pantalla.mostrar ("normal")
+}
+
+En este caso hay dos condiciones. 
+Si se ejecuta la condición 1 (temperatura > 100) se ejecuta el primer bloque. 
+Si se cumple la segunda (temperatura < 0) se ejecuta el segundo, y si no se cumple ninguna de ellas la tercera. 
+
+IMPORTANTE: No es obligatorio incluir el "sino" en los condicionales. 
+Como se ve en el ejemplo 1 se puede hacer un condicional que solo tenga una condición
+
+Construcción iterativa (repeticiones):
+--------------------------------------
+
+Sirve para repetir un blóque de código las veces que sea necesario. La cantidad de repeticiones se define con la condición.
+
+mientras (condicion) {
+	se ejecuta esto
+}
+
+Esta estructura tiene una parte condicional y un salto. Es decir, se puede entender como:
+
+1. si (condicion) {
+2. 	se ejecuta esto
+3.	Volver a la linea 1
+4. }
+5. 
+
+La ejecución viene de arriba para abajo. Primero se evalua el "si (condicion)". 
+Si se cumple entonces se entra al bloque. y se ejecuta "ejecuta esto". Sino sigue de largo y no hace nada. 
+
+En el caso de entrar al bloque la ultima ejecución va a ser de "volver a la linea 1" 
+Esto nos manda de nuevo a ejecutar el "si (condición)". 
+De esta forma si se sigue cumpliendo la condicion se vuelve a ejecutar el bloque, y así hasta que no se cumpla la condición. 
+Esta es solo una forma de entender el funcionamiento del "mientras". Para programar vamos a usar el mientras, no el "volver a la linea..."
+
+
+--------------------------------------------------------------------------

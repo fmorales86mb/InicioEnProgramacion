@@ -1,0 +1,82 @@
+﻿/* GridView y DetailsView */
+
+.DataWebControlStyle
+{
+    font-size: 90%;
+}
+
+.HeaderStyle
+{
+    background-color: #41519A;
+    color: White;
+    font-weight: bold;
+}
+
+.FooterStyle
+{
+	background-color: #B2C3E1;
+	color: White;
+}
+
+.AlternatingRowStyle
+{
+    background-color: #99ACDD;
+}
+
+.RowStyle
+{
+	background-color: #FFFFFF;
+	color: Black;
+}
+
+.PagerStyle
+{
+	background-color: #EFE6F7;
+	color: Black;
+}
+
+/*Calendario*/
+
+.TitleStyle
+{
+	background-color: #41519A;
+	border-color: Black;
+	color: White;
+}
+
+.DayHeaderStyle
+{
+	font-weight: bold;
+	background-color: #B2C3E1;
+}
+
+.TodayDayStyle
+{
+	background-color: #B2C3E1;
+	color: Black;
+}
+
+.SelectedDayStyle
+{
+	background-color: #41519A;
+	font-weight: bold;
+	color: White;
+}
+
+.WeekendDayStyle
+{
+	background-color: #99ACDD;
+}
+
+.SelectorStyle
+{
+	background-color: #41519A;
+}
+
+.NextPrevStyle
+{
+	vertical-align: bottom;
+	font-weight:bold;
+	Color: White;
+}
+

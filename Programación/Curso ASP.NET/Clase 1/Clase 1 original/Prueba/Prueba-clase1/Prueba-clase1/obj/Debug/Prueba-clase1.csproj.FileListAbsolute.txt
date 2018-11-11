@@ -1,0 +1,6 @@
+C:\Users\Moncho\Desktop\Curso ASP.NET\Clase 1\Prueba\Prueba-clase1\Prueba-clase1\bin\Prueba-clase1.dll.config
+C:\Users\Moncho\Desktop\Curso ASP.NET\Clase 1\Prueba\Prueba-clase1\Prueba-clase1\bin\Prueba-clase1.dll
+C:\Users\Moncho\Desktop\Curso ASP.NET\Clase 1\Prueba\Prueba-clase1\Prueba-clase1\bin\Prueba-clase1.pdb
+C:\Users\Moncho\Desktop\Curso ASP.NET\Clase 1\Prueba\Prueba-clase1\Prueba-clase1\obj\Debug\Prueba-clase1.dll
+C:\Users\Moncho\Desktop\Curso ASP.NET\Clase 1\Prueba\Prueba-clase1\Prueba-clase1\obj\Debug\Prueba-clase1.pdb
+C:\Users\Moncho\Desktop\Curso ASP.NET\Clase 1\Prueba\Prueba-clase1\Prueba-clase1\obj\Debug\Prueba-clase1.csprojResolveAssemblyReference.cache

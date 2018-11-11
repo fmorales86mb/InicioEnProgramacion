@@ -1,0 +1,12 @@
+C:\Users\Pablo\Downloads\EstructuraCS\EstructuraCS\EstructuraCS\bin\EjemploSiteMapPath.dll.config
+C:\Users\Pablo\Downloads\EstructuraCS\EstructuraCS\EstructuraCS\bin\EjemploSiteMapPath.dll
+C:\Users\Pablo\Downloads\EstructuraCS\EstructuraCS\EstructuraCS\bin\EjemploSiteMapPath.pdb
+C:\Users\Pablo\Downloads\EstructuraCS\EstructuraCS\EstructuraCS\obj\Debug\EjemploSiteMapPath.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Downloads\EstructuraCS\EstructuraCS\EstructuraCS\obj\Debug\EjemploSiteMapPath.dll
+C:\Users\Pablo\Downloads\EstructuraCS\EstructuraCS\EstructuraCS\obj\Debug\EjemploSiteMapPath.pdb
+C:\Users\Moncho\Desktop\Curso ASP.NET\Clase 2\EjemploSiteMapPath\EjemploSiteMapPath\bin\EjemploSiteMapPath.dll.config
+C:\Users\Moncho\Desktop\Curso ASP.NET\Clase 2\EjemploSiteMapPath\EjemploSiteMapPath\bin\EjemploSiteMapPath.dll
+C:\Users\Moncho\Desktop\Curso ASP.NET\Clase 2\EjemploSiteMapPath\EjemploSiteMapPath\bin\EjemploSiteMapPath.pdb
+C:\Users\Moncho\Desktop\Curso ASP.NET\Clase 2\EjemploSiteMapPath\EjemploSiteMapPath\obj\Debug\EjemploSiteMapPath.csprojResolveAssemblyReference.cache
+C:\Users\Moncho\Desktop\Curso ASP.NET\Clase 2\EjemploSiteMapPath\EjemploSiteMapPath\obj\Debug\EjemploSiteMapPath.dll
+C:\Users\Moncho\Desktop\Curso ASP.NET\Clase 2\EjemploSiteMapPath\EjemploSiteMapPath\obj\Debug\EjemploSiteMapPath.pdb

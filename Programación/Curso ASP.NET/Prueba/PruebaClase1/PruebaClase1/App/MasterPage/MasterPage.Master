@@ -1,0 +1,80 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="PruebaClase1.MasterPage.MasterPage" %>
+
+<%@ Register Src="~/App/MasterPage/Encabezado.ascx" TagPrefix="uc1" TagName="Encabezado" %>
+
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <%--Acá arrastro al css--%>
+    <link href="../Styles/Menu.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <%--Acá pongo al uc1 del encabezado--%>
+    <uc1:Encabezado runat="server" ID="Encabezado" />
+
+    <div class="nav" style="align-self:center">
+       <ul class="nav">
+           <li> <a href="#">Clientes</a>
+               <ul>
+                   <li><a href="#">Alta (clase 5)</a></li>
+                   <li><a href="Cliente.aspx">Consulta</a></li>
+                   <li><a href="ClientesPorPais.aspx">Clientes por País</a></li>
+               </ul>
+           </li>
+
+           <li> <a href="#">Productos</a>
+               <ul>
+                   <li><a href="Producto.aspx">Consulta</a></li>
+                   <li><a href="#">Consulta por Categorías</a></li>
+               </ul>
+           </li>
+           
+           <li><a href="#">Empleados</a>
+               <ul>
+                    <li><a href="VistaEmpleados.aspx">Consulta</a></li>
+                    <li><a href="EmpleadosPorPais.aspx">Por País</a></li>
+               </ul>               
+           </li>
+                                       
+           <li><a href="#">Usuarios</a></li>
+
+           <li><a href="#">Manejo de Estado</a>
+                <ul>
+                     <li><a href="OutputCache.aspx">OutputCache</a></li>
+                     <li><a href="#">Cache</a></li>
+                     <li><a href="#">Cache Resultados</a></li>
+                     <li><a href="Cookies.aspx">Cookies</a></li>
+                     <li><a href="Origen.aspx">Método QueryString</a></li>
+               </ul>
+           </li>
+
+           <li><a href="Página 1.aspx">Navegación</a></li>
+           
+           <li><a href="#">XML Web Services</a></li>
+          
+            <li><a href="#">Registrase</a></li>
+          
+            <li><a href="#">AJAX</a></li>
+           
+           <li><a href="#">Cerrar Sesion</a></li>
+           
+           <li><a href="Index.aspx">Inicio</a></li>
+        </ul>
+
+        <br />
+    </div>
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="TraerPais">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="pIdCliente" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="TraerPaisResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="TraerPaisResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ProductosxCategoria">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="pIdCategoria" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ProductosxCategoriaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ProductosxCategoriaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="TraerPaisSoapIn">
+    <wsdl:part name="parameters" element="tns:TraerPais" />
+  </wsdl:message>
+  <wsdl:message name="TraerPaisSoapOut">
+    <wsdl:part name="parameters" element="tns:TraerPaisResponse" />
+  </wsdl:message>
+  <wsdl:message name="ProductosxCategoriaSoapIn">
+    <wsdl:part name="parameters" element="tns:ProductosxCategoria" />
+  </wsdl:message>
+  <wsdl:message name="ProductosxCategoriaSoapOut">
+    <wsdl:part name="parameters" element="tns:ProductosxCategoriaResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ServicioCursoBDSoap">
+    <wsdl:operation name="TraerPais">
+      <wsdl:input message="tns:TraerPaisSoapIn" />
+      <wsdl:output message="tns:TraerPaisSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ProductosxCategoria">
+      <wsdl:input message="tns:ProductosxCategoriaSoapIn" />
+      <wsdl:output message="tns:ProductosxCategoriaSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ServicioCursoBDSoap" type="tns:ServicioCursoBDSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="TraerPais">
+      <soap:operation soapAction="http://tempuri.org/TraerPais" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ProductosxCategoria">
+      <soap:operation soapAction="http://tempuri.org/ProductosxCategoria" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ServicioCursoBDSoap12" type="tns:ServicioCursoBDSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="TraerPais">
+      <soap12:operation soapAction="http://tempuri.org/TraerPais" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ProductosxCategoria">
+      <soap12:operation soapAction="http://tempuri.org/ProductosxCategoria" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ServicioCursoBD">
+    <wsdl:port name="ServicioCursoBDSoap" binding="tns:ServicioCursoBDSoap">
+      <soap:address location="http://localhost:50962/ServicioCursoBD.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ServicioCursoBDSoap12" binding="tns:ServicioCursoBDSoap12">
+      <soap12:address location="http://localhost:50962/ServicioCursoBD.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

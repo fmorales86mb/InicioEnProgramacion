@@ -1,0 +1,36 @@
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP NET net - C# - VBNet\clase 2\SolucionWebCurso\WebCurso\bin\WebCurso.dll.config
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP NET net - C# - VBNet\clase 2\SolucionWebCurso\WebCurso\bin\WebCurso.dll
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP NET net - C# - VBNet\clase 2\SolucionWebCurso\WebCurso\bin\WebCurso.pdb
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP NET net - C# - VBNet\clase 2\SolucionWebCurso\WebCurso\obj\Debug\WebCurso.csprojResolveAssemblyReference.cache
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP NET net - C# - VBNet\clase 2\SolucionWebCurso\WebCurso\obj\Debug\WebCurso.dll
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP NET net - C# - VBNet\clase 2\SolucionWebCurso\WebCurso\obj\Debug\WebCurso.pdb
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\clase1\SolucionWebCurso\WebCurso\bin\WebCurso.dll.config
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\clase1\SolucionWebCurso\WebCurso\bin\WebCurso.dll
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\clase1\SolucionWebCurso\WebCurso\bin\WebCurso.pdb
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\clase1\SolucionWebCurso\WebCurso\obj\Debug\WebCurso.dll
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\clase1\SolucionWebCurso\WebCurso\obj\Debug\WebCurso.pdb
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\clase1\SolucionWebCurso\WebCurso\obj\Debug\WebCurso.csprojResolveAssemblyReference.cache
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\clase2\SolucionWebCurso\WebCurso\bin\WebCurso.dll.config
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\clase2\SolucionWebCurso\WebCurso\bin\WebCurso.dll
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\clase2\SolucionWebCurso\WebCurso\bin\WebCurso.pdb
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\clase2\SolucionWebCurso\WebCurso\obj\Debug\WebCurso.dll
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\clase2\SolucionWebCurso\WebCurso\obj\Debug\WebCurso.pdb
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\clase2\SolucionWebCurso\WebCurso\obj\Debug\WebCurso.csprojResolveAssemblyReference.cache
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\Sabado\clase1\SolucionWebCurso\WebCurso\bin\WebCurso.dll.config
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\Sabado\clase1\SolucionWebCurso\WebCurso\bin\WebCurso.dll
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\Sabado\clase1\SolucionWebCurso\WebCurso\bin\WebCurso.pdb
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\Sabado\clase1\SolucionWebCurso\WebCurso\obj\Debug\WebCurso.dll
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\Sabado\clase1\SolucionWebCurso\WebCurso\obj\Debug\WebCurso.pdb
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\Sabado\clase1\SolucionWebCurso\WebCurso\obj\Debug\WebCurso.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Documents\Sabado\SolucionWebCurso\WebCurso\bin\WebCurso.dll.config
+C:\Users\educacionit\Documents\Sabado\SolucionWebCurso\WebCurso\bin\WebCurso.dll
+C:\Users\educacionit\Documents\Sabado\SolucionWebCurso\WebCurso\bin\WebCurso.pdb
+C:\Users\educacionit\Documents\Sabado\SolucionWebCurso\WebCurso\obj\Debug\WebCurso.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Documents\Sabado\SolucionWebCurso\WebCurso\obj\Debug\WebCurso.dll
+C:\Users\educacionit\Documents\Sabado\SolucionWebCurso\WebCurso\obj\Debug\WebCurso.pdb
+C:\Users\Moncho\Desktop\Curso ASP.NET\Clase 2\Clase 2 vista\SolucionWebCurso\WebCurso\bin\WebCurso.dll.config
+C:\Users\Moncho\Desktop\Curso ASP.NET\Clase 2\Clase 2 vista\SolucionWebCurso\WebCurso\bin\WebCurso.dll
+C:\Users\Moncho\Desktop\Curso ASP.NET\Clase 2\Clase 2 vista\SolucionWebCurso\WebCurso\bin\WebCurso.pdb
+C:\Users\Moncho\Desktop\Curso ASP.NET\Clase 2\Clase 2 vista\SolucionWebCurso\WebCurso\obj\Debug\WebCurso.csprojResolveAssemblyReference.cache
+C:\Users\Moncho\Desktop\Curso ASP.NET\Clase 2\Clase 2 vista\SolucionWebCurso\WebCurso\obj\Debug\WebCurso.dll
+C:\Users\Moncho\Desktop\Curso ASP.NET\Clase 2\Clase 2 vista\SolucionWebCurso\WebCurso\obj\Debug\WebCurso.pdb

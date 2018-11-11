@@ -1,0 +1,21 @@
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\clase4\SolucionWebCurso\Datos\bin\Debug\Datos.dll
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\clase4\SolucionWebCurso\Datos\bin\Debug\Datos.pdb
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\clase4\SolucionWebCurso\Datos\bin\Debug\Entidades.dll
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\clase4\SolucionWebCurso\Datos\bin\Debug\Entidades.pdb
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\clase4\SolucionWebCurso\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\clase4\SolucionWebCurso\Datos\obj\Debug\Datos.dll
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\clase4\SolucionWebCurso\Datos\obj\Debug\Datos.pdb
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\clase5\SolucionWebCurso\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\clase5\SolucionWebCurso\Datos\obj\Debug\Datos.dll
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\clase5\SolucionWebCurso\Datos\obj\Debug\Datos.pdb
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\clase5\SolucionWebCurso\Datos\bin\Debug\Datos.dll
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\clase5\SolucionWebCurso\Datos\bin\Debug\Datos.pdb
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\clase5\SolucionWebCurso\Datos\bin\Debug\Entidades.dll
+C:\Users\rdibarra\Documents\rafa\Curso_EducacionIT\ASP_NET\Curso_ASPNET_Rafael\clase5\SolucionWebCurso\Datos\bin\Debug\Entidades.pdb
+C:\Users\Moncho\Desktop\Curso ASP.NET\clase 4-5\SolucionWebCurso\Datos\bin\Debug\Datos.dll
+C:\Users\Moncho\Desktop\Curso ASP.NET\clase 4-5\SolucionWebCurso\Datos\bin\Debug\Datos.pdb
+C:\Users\Moncho\Desktop\Curso ASP.NET\clase 4-5\SolucionWebCurso\Datos\bin\Debug\Entidades.dll
+C:\Users\Moncho\Desktop\Curso ASP.NET\clase 4-5\SolucionWebCurso\Datos\bin\Debug\Entidades.pdb
+C:\Users\Moncho\Desktop\Curso ASP.NET\clase 4-5\SolucionWebCurso\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Moncho\Desktop\Curso ASP.NET\clase 4-5\SolucionWebCurso\Datos\obj\Debug\Datos.dll
+C:\Users\Moncho\Desktop\Curso ASP.NET\clase 4-5\SolucionWebCurso\Datos\obj\Debug\Datos.pdb

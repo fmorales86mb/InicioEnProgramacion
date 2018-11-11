@@ -1,0 +1,18 @@
+C:\Users\Moncho\Desktop\Curso ASP.NET\Clase 1\Prueba\PruebaClase1\PruebaClase1\bin\PruebaClase1.dll.config
+C:\Users\Moncho\Desktop\Curso ASP.NET\Clase 1\Prueba\PruebaClase1\PruebaClase1\bin\PruebaClase1.dll
+C:\Users\Moncho\Desktop\Curso ASP.NET\Clase 1\Prueba\PruebaClase1\PruebaClase1\bin\PruebaClase1.pdb
+C:\Users\Moncho\Desktop\Curso ASP.NET\Clase 1\Prueba\PruebaClase1\PruebaClase1\obj\Debug\PruebaClase1.dll
+C:\Users\Moncho\Desktop\Curso ASP.NET\Clase 1\Prueba\PruebaClase1\PruebaClase1\obj\Debug\PruebaClase1.pdb
+C:\Users\Moncho\Desktop\Curso ASP.NET\Clase 1\Prueba\PruebaClase1\PruebaClase1\obj\Debug\PruebaClase1.csprojResolveAssemblyReference.cache
+C:\Users\Moncho\Desktop\Curso ASP.NET\Prueba\PruebaClase1\PruebaClase1\bin\PruebaClase1.dll.config
+C:\Users\Moncho\Desktop\Curso ASP.NET\Prueba\PruebaClase1\PruebaClase1\bin\PruebaClase1.dll
+C:\Users\Moncho\Desktop\Curso ASP.NET\Prueba\PruebaClase1\PruebaClase1\bin\PruebaClase1.pdb
+C:\Users\Moncho\Desktop\Curso ASP.NET\Prueba\PruebaClase1\PruebaClase1\obj\Debug\PruebaClase1.dll
+C:\Users\Moncho\Desktop\Curso ASP.NET\Prueba\PruebaClase1\PruebaClase1\obj\Debug\PruebaClase1.pdb
+C:\Users\Moncho\Desktop\Curso ASP.NET\Prueba\PruebaClase1\PruebaClase1\obj\Debug\PruebaClase1.csprojResolveAssemblyReference.cache
+C:\Users\Moncho\Desktop\Curso ASP.NET\Prueba\PruebaClase1\PruebaClase1\bin\Logica.dll
+C:\Users\Moncho\Desktop\Curso ASP.NET\Prueba\PruebaClase1\PruebaClase1\bin\Datos.dll
+C:\Users\Moncho\Desktop\Curso ASP.NET\Prueba\PruebaClase1\PruebaClase1\bin\Logica.pdb
+C:\Users\Moncho\Desktop\Curso ASP.NET\Prueba\PruebaClase1\PruebaClase1\bin\Datos.pdb
+C:\Users\Moncho\Desktop\Curso ASP.NET\Prueba\PruebaClase1\PruebaClase1\bin\Entidades.dll
+C:\Users\Moncho\Desktop\Curso ASP.NET\Prueba\PruebaClase1\PruebaClase1\bin\Entidades.pdb

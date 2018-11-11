@@ -1,0 +1,85 @@
+
+
+
+si (enfriador.estaEncendido?) {
+	enfriador.apagar ();
+}
+
+si (calentador.estaEnmcendico?) {
+	calentador.apagar ();
+}
+
+si (temperatura > 100) {
+	pantalla.mostrar ("caliente!!");
+}
+
+si (temperatura > 110) {
+	pantalla.mostrar ("demasiado caliente");
+}
+
+
+------------------
+------------------
+
+
+2) Repeticiones
+
+mientras (condicion) {
+	se ejecuta esto
+}
+
+
+temperatura = 0;
+
+mientras (temperatura < 30) {
+	temperatura = temperatura + 1;
+}
+
+
+
+aire:FijarTemperatura (t) {
+	mientras (t< sensor.damelatemperatura() ) {
+		calentador.encender();
+		pantalla.mostrar (sensor.devolvertemperatura ());
+	}
+
+	
+	mientras (t> sensor.damelatemperatura() ){
+		enfriador.encender()
+		pantalla.mostrar (sensor.devolvertemperatura ());
+	}
+}
+
+	
+	
+	
+	
+	mientras (t != sensor.dameLaTemperatura ()) {
+		si (t < sensor.dameLaTEmperatura ()) {
+			calentador.encender ();
+		
+		} sino {
+			enfriador.encender ();
+		}
+
+		pantalla.mostrar (sensor.devolvertemperatura ());
+	}
+	
+	
+	
+	
+
+enfriador:encender () {
+	temperatura = temperatura - 1;
+}
+
+calentador:encender () {
+	temperatura = temperatura + 1;
+}
+
+sensor: DameLaTemperatura () {
+	devolver temperatura
+}
+
+pantalla:mostrar (texto) {
+}

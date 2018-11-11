@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Demo" Class="dcClienteDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=10.120.56.118;Initial Catalog=Demo;Persist Security Info=True;User ID=sa" SettingsObjectName="Entidades.Properties.Settings" SettingsPropertyName="DemoConnectionString2" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Customer" Member="Customer">
+    <Type Name="Customer">
+      <Column Name="CustomerID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CompanyName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="ContactName" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="ContactTitle" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="VarChar(60)" CanBeNull="true" />
+      <Column Name="City" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="Region" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="PostalCode" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="Country" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="Phone" Type="System.String" DbType="VarChar(25)" CanBeNull="true" />
+      <Column Name="Fax" Type="System.String" DbType="VarChar(25)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

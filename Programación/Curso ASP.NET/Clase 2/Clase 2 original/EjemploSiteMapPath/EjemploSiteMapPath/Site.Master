@@ -1,0 +1,65 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="EjemploSiteMapPath.Site" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+ <form id="form1" runat="server">
+<!-- Begin Wrapper -->
+   <div id="wrapper">
+   
+         <!-- Begin Header -->
+         <div id="header" class="Encabezado">
+		      ACME Computación & Electrónica
+		 </div>
+		 <!-- End Header -->
+		 
+         <!-- Begin Faux Columns -->
+		 <div id="faux">
+		 
+		       <!-- Begin Left Column -->
+		       <div id="leftcolumn">
+		 
+                   <asp:TreeView ID="TreeView1" runat="server" DataSourceID="SiteMapDataSource"></asp:TreeView>
+		 
+		           <asp:SiteMapDataSource ID="SiteMapDataSource" runat="server" />
+		 
+		       </div>
+		       <!-- End Left Column -->
+		 
+		       <!-- Begin Right Column -->
+		       <div id="rightcolumn">
+		       
+	                 <div>
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+                    </div>
+		       
+			   <div class="clear"></div>
+			   
+		       </div>
+		       <!-- End Right Column -->
+			   
+			   <div class="clear"></div>
+			   
+         </div>	   
+         <!-- End Faux Columns --> 
+
+         <!-- Begin Footer -->
+         <div id="footer">
+		       
+             <asp:SiteMapPath ID="SiteMapPath1" runat="server"></asp:SiteMapPath>
+
+         </div>
+		 <!-- End Footer -->
+		 
+   </div>
+   <!-- End Wrapper -->
+    </form>
+</body>
+
+</html>

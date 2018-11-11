@@ -1,0 +1,8 @@
+Reglas para trabajar con Git:
+
+- nunca crear ni borrar branches desde la pagina, siempre hacerlo desde tu maquina
+- Nunca trabajar directamente sobre el master, trabajar sobre un branch propio
+- El branch propio tiene que salir al principio del master y luego lo tenes que mergear contra el master solo cuando terminas
+
+
+Nota: Siempre que hacemos pull de un branch tenes que estar parado en ese branch, por que sino te va a hacer un merge automaticamente con el branch al que puleasete

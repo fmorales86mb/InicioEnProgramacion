@@ -1,0 +1,5 @@
+C:\Users\Pablo\EstructuraCS\EstructuraCS\bin\EstructuraCS.dll
+C:\Users\Pablo\EstructuraCS\EstructuraCS\bin\EstructuraCS.pdb
+C:\Users\Pablo\EstructuraCS\EstructuraCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pablo\EstructuraCS\EstructuraCS\obj\Debug\EstructuraCS.dll
+C:\Users\Pablo\EstructuraCS\EstructuraCS\obj\Debug\EstructuraCS.pdb

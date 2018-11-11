@@ -1,0 +1,31 @@
+﻿.Encabezado
+{
+    font-size:x-large;
+    color:Green;
+    margin-bottom: 25px;
+}
+
+.centrar-imagen 
+{
+ text-align: center; 
+}
+
+h1
+{
+    font-size:large;
+    color:Teal;
+    margin-bottom: 15px;
+}
+
+h2
+{
+    font-size:medium;
+    color:Olive;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+p
+{
+    margin-bottom: 10px;
+}
