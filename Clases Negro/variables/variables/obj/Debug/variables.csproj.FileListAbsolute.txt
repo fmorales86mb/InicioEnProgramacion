@@ -1,0 +1,9 @@
+C:\Users\marcelino\Desktop\curso\Proyectos\variables\variables\bin\Debug\variables.exe.config
+C:\Users\marcelino\Desktop\curso\Proyectos\variables\variables\bin\Debug\variables.exe
+C:\Users\marcelino\Desktop\curso\Proyectos\variables\variables\bin\Debug\variables.pdb
+C:\Users\marcelino\Desktop\curso\Proyectos\variables\variables\obj\Debug\variables.csprojResolveAssemblyReference.cache
+C:\Users\marcelino\Desktop\curso\Proyectos\variables\variables\obj\Debug\variables.Form1.resources
+C:\Users\marcelino\Desktop\curso\Proyectos\variables\variables\obj\Debug\variables.Properties.Resources.resources
+C:\Users\marcelino\Desktop\curso\Proyectos\variables\variables\obj\Debug\variables.csproj.GenerateResource.Cache
+C:\Users\marcelino\Desktop\curso\Proyectos\variables\variables\obj\Debug\variables.exe
+C:\Users\marcelino\Desktop\curso\Proyectos\variables\variables\obj\Debug\variables.pdb

@@ -1,0 +1,8 @@
+C:\Users\marcelino\Desktop\curso\Proyectos\tiposDeDatos2\tiposDeDatos2\bin\Debug\tiposDeDatos2.exe.config
+C:\Users\marcelino\Desktop\curso\Proyectos\tiposDeDatos2\tiposDeDatos2\bin\Debug\tiposDeDatos2.exe
+C:\Users\marcelino\Desktop\curso\Proyectos\tiposDeDatos2\tiposDeDatos2\bin\Debug\tiposDeDatos2.pdb
+C:\Users\marcelino\Desktop\curso\Proyectos\tiposDeDatos2\tiposDeDatos2\obj\Debug\tiposDeDatos2.Form1.resources
+C:\Users\marcelino\Desktop\curso\Proyectos\tiposDeDatos2\tiposDeDatos2\obj\Debug\tiposDeDatos2.Properties.Resources.resources
+C:\Users\marcelino\Desktop\curso\Proyectos\tiposDeDatos2\tiposDeDatos2\obj\Debug\tiposDeDatos2.csproj.GenerateResource.Cache
+C:\Users\marcelino\Desktop\curso\Proyectos\tiposDeDatos2\tiposDeDatos2\obj\Debug\tiposDeDatos2.exe
+C:\Users\marcelino\Desktop\curso\Proyectos\tiposDeDatos2\tiposDeDatos2\obj\Debug\tiposDeDatos2.pdb

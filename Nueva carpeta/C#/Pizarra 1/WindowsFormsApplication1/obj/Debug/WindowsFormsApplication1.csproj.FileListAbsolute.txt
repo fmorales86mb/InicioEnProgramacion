@@ -1,0 +1,34 @@
+c:\users\moncho\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Proyectos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Proyectos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Proyectos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Proyectos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Proyectos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Proyectos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Proyectos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Proyectos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Proyectos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.formularioPizarra.resources
+E:\Proyectos\Pizarra 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Proyectos\Pizarra 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Proyectos\Pizarra 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\Proyectos\Pizarra 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\Proyectos\Pizarra 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\Proyectos\Pizarra 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\Proyectos\Pizarra 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\Proyectos\Pizarra 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.formularioPizarra.resources
+G:\Proyectos\Pizarra 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Proyectos\Pizarra 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\Proyectos\Pizarra 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\Proyectos\Pizarra 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Proyectos\Pizarra 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Proyectos\Pizarra 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Proyectos\Pizarra 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Proyectos\Pizarra 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Proyectos\Pizarra 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Proyectos\Pizarra 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\Proyectos\Pizarra 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.formularioPizarra.resources
+F:\Proyectos\Pizarra 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Proyectos\Pizarra 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\Proyectos\Programas\Pizarra 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\Proyectos\Programas\Pizarra 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\Proyectos\Programas\Pizarra 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

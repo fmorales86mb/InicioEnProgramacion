@@ -1,0 +1,9 @@
+F:\Proyectos\Clases Negro\Herencia\Herencia\bin\Debug\Herencia.exe.config
+F:\Proyectos\Clases Negro\Herencia\Herencia\bin\Debug\Herencia.exe
+F:\Proyectos\Clases Negro\Herencia\Herencia\bin\Debug\Herencia.pdb
+F:\Proyectos\Clases Negro\Herencia\Herencia\obj\Debug\Herencia.csprojResolveAssemblyReference.cache
+F:\Proyectos\Clases Negro\Herencia\Herencia\obj\Debug\Herencia.Form1.resources
+F:\Proyectos\Clases Negro\Herencia\Herencia\obj\Debug\Herencia.Properties.Resources.resources
+F:\Proyectos\Clases Negro\Herencia\Herencia\obj\Debug\Herencia.csproj.GenerateResource.Cache
+F:\Proyectos\Clases Negro\Herencia\Herencia\obj\Debug\Herencia.exe
+F:\Proyectos\Clases Negro\Herencia\Herencia\obj\Debug\Herencia.pdb

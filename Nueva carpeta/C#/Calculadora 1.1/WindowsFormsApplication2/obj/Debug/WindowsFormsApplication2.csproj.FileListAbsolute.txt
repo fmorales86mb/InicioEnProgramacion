@@ -1,0 +1,56 @@
+c:\users\moncho\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\moncho\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\moncho\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\moncho\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\moncho\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\moncho\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\moncho\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\moncho\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\moncho\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Mis Cosas\Mis documentos\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Mis Cosas\Mis documentos\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Mis Cosas\Mis documentos\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Mis Cosas\Mis documentos\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Mis Cosas\Mis documentos\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Mis Cosas\Mis documentos\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Mis Cosas\Mis documentos\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Mis Cosas\Mis documentos\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Mis Cosas\Mis documentos\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+G:\Calculadora 1.1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+G:\Calculadora 1.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+G:\Calculadora 1.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+G:\Calculadora 1.1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+G:\Calculadora 1.1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+G:\Calculadora 1.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+G:\Calculadora 1.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+G:\Calculadora 1.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+G:\Calculadora 1.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\Calculadora 1.1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\Calculadora 1.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\Calculadora 1.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\Calculadora 1.1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\Calculadora 1.1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\Calculadora 1.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\Calculadora 1.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\Calculadora 1.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\Calculadora 1.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Moncho\Documents\Visual Studio 2012\Projects\Calculadora 1.1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Moncho\Documents\Visual Studio 2012\Projects\Calculadora 1.1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Moncho\Documents\Visual Studio 2012\Projects\Calculadora 1.1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Moncho\Documents\Visual Studio 2012\Projects\Calculadora 1.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Moncho\Documents\Visual Studio 2012\Projects\Calculadora 1.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Moncho\Documents\Visual Studio 2012\Projects\Calculadora 1.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Moncho\Documents\Visual Studio 2012\Projects\Calculadora 1.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Moncho\Documents\Visual Studio 2012\Projects\Calculadora 1.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+G:\Proyectos\Programas\Calculadora 1.1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+G:\Proyectos\Programas\Calculadora 1.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+G:\Proyectos\Programas\Calculadora 1.1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

@@ -1,0 +1,63 @@
+Estructura de la DB:
+
+Persona
+	*IdPersona		int
+	Nombre			string
+	apellido		string
+	
+Departamentos
+	*IdDepartamento	int
+	Nombre			string
+	descripcion		string
+	
+PersonaPorDepartamento
+	*IdPersona		int
+	*IdDepartamento	int
+	Funcion			string
+	
+	
+comando para crear tablas:
+
+CREATE TABLE Persona (
+	IdPersona integer not null,
+	Nombre varchar(254),
+	Apellido varchar(254),
+	PRIMARY KEY (IdPersona)
+);
+
+CREATE TABLE Departamentos (
+	IdDepartamento integer not null,
+	Nombre varchar(254),
+	Descripcion varchar(254),
+	PRIMARY KEY (IdDepartamento)
+);
+
+
+CREATE TABLE PersonaPorDepartametno (
+	IdPersona	integer not null,
+	IdDepartamento	integer not null,
+	Funcion			varchar(254),
+	PRIMARY KEY (IdPersona, IdDepartamento)
+);
+	
+	
+	
+--------------------------------------------------------
+Datos:
+
+Persona
+IdPersona	Nombre		Apellido
+1			Juan		Manuel
+2			Pedro		Guey
+
+Departamentos
+IdDepartamento	Nombre	Descripcion
+3				Compras	Es el departamento de compras
+4				Ventas	Blah
+
+
+PersonaPorDepartamento	
+IdPersona, 	IdDepartamento	Funcion
+1			3				jefe
+1			4				Gil
+----------------------------------------------------------

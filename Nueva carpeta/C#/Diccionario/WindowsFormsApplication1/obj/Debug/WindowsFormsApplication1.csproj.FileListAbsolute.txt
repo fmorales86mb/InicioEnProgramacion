@@ -1,0 +1,36 @@
+c:\users\moncho\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\moncho\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\moncho\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\moncho\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\moncho\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDiccionario.resources
+c:\users\moncho\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\moncho\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\moncho\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\moncho\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Proyectos\Programas\Diccionario\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Proyectos\Programas\Diccionario\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Proyectos\Programas\Diccionario\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Proyectos\Programas\Diccionario\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Proyectos\Programas\Diccionario\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Proyectos\Programas\Diccionario\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDiccionario.resources
+F:\Proyectos\Programas\Diccionario\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Proyectos\Programas\Diccionario\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\Proyectos\Programas\Diccionario\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Proyectos\Programas\Diccionario\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Proyectos\Programas\Diccionario\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Proyectos\Programas\Diccionario\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Proyectos\Programas\Diccionario\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Proyectos\Programas\Diccionario\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Proyectos\Programas\Diccionario\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Proyectos\Programas\Diccionario\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDiccionario.resources
+E:\Proyectos\Programas\Diccionario\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Proyectos\Programas\Diccionario\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\Proyectos\Programas\Diccionario\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\Proyectos\Programas\Diccionario\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\Proyectos\Programas\Diccionario\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\Proyectos\Programas\Diccionario\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\Proyectos\Programas\Diccionario\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\Proyectos\Programas\Diccionario\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\Proyectos\Programas\Diccionario\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDiccionario.resources
+G:\Proyectos\Programas\Diccionario\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Proyectos\Programas\Diccionario\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

@@ -1,0 +1,43 @@
+D:\Desarrollo\Sistema Consultorio\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\bin\Debug\Sistema Consultorio.exe.config
+D:\Desarrollo\Sistema Consultorio\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\obj\Debug\Sistema Consultorio.csprojResolveAssemblyReference.cache
+D:\Desarrollo\Sistema Consultorio\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\obj\Debug\Sistema_Consultorio.AbmEspecialidad.resources
+D:\Desarrollo\Sistema Consultorio\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\obj\Debug\Sistema_Consultorio.Listados.Especialidad.resources
+D:\Desarrollo\Sistema Consultorio\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\obj\Debug\Sistema_Consultorio.Properties.Resources.resources
+D:\Desarrollo\Sistema Consultorio\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\obj\Debug\Sistema Consultorio.csproj.GenerateResource.Cache
+D:\Desarrollo\Sistema Consultorio\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\bin\Debug\Sistema Consultorio.exe
+D:\Desarrollo\Sistema Consultorio\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\bin\Debug\Sistema Consultorio.pdb
+D:\Desarrollo\Sistema Consultorio\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\bin\Debug\Entidades.dll
+D:\Desarrollo\Sistema Consultorio\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\bin\Debug\Logica.dll
+D:\Desarrollo\Sistema Consultorio\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\bin\Debug\Datos.dll
+D:\Desarrollo\Sistema Consultorio\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\bin\Debug\Entidades.pdb
+D:\Desarrollo\Sistema Consultorio\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\bin\Debug\Logica.pdb
+D:\Desarrollo\Sistema Consultorio\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\bin\Debug\Datos.pdb
+D:\Desarrollo\Sistema Consultorio\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\obj\Debug\Sistema Consultorio.exe
+D:\Desarrollo\Sistema Consultorio\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\obj\Debug\Sistema Consultorio.pdb
+D:\Desarrollo\Sistema Consultorio\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\obj\Debug\Sistema_Consultorio.Listados.Profesional.resources
+D:\Desarrollo\Sistema Consultorio\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\obj\Debug\Sistema_Consultorio.Listados.Usuario.resources
+D:\Desarrollo\Sistema Consultorio\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\obj\Debug\Sistema_Consultorio.Listados.ObraSocial.resources
+D:\Desarrollo\Sistema Consultorio\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\obj\Debug\Sistema_Consultorio.FormularioPrincipal.resources
+D:\Desarrollo\Sistema Consultorio\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\obj\Debug\Sistema_Consultorio.ABMs.Profesional.resources
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\bin\Debug\Sistema Consultorio.exe.config
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\bin\Debug\Sistema Consultorio.exe
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\bin\Debug\Sistema Consultorio.pdb
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\bin\Debug\Entidades.dll
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\bin\Debug\Logica.dll
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\bin\Debug\Datos.dll
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\bin\Debug\Entidades.pdb
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\bin\Debug\Logica.pdb
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\bin\Debug\Datos.pdb
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\obj\Debug\Sistema Consultorio.csprojResolveAssemblyReference.cache
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\obj\Debug\Sistema_Consultorio.AbmEspecialidad.resources
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\obj\Debug\Sistema_Consultorio.ABMs.Profesional.resources
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\obj\Debug\Sistema_Consultorio.FormularioPrincipal.resources
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\obj\Debug\Sistema_Consultorio.Listados.Especialidad.resources
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\obj\Debug\Sistema_Consultorio.Listados.ObraSocial.resources
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\obj\Debug\Sistema_Consultorio.Listados.Profesional.resources
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\obj\Debug\Sistema_Consultorio.Listados.Usuario.resources
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\obj\Debug\Sistema_Consultorio.Properties.Resources.resources
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\obj\Debug\Sistema Consultorio.csproj.GenerateResource.Cache
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\obj\Debug\Sistema Consultorio.exe
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\obj\Debug\Sistema Consultorio.pdb
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Sistema Consultorio\obj\Debug\Sistema_Consultorio.ABMs.EstadoTratamiento.resources

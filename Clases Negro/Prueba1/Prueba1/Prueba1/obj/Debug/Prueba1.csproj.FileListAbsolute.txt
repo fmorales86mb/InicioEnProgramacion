@@ -1,0 +1,9 @@
+C:\Users\marcelino\Desktop\curso\Proyectos\Prueba1\Prueba1\Prueba1\bin\Debug\Prueba1.exe.config
+C:\Users\marcelino\Desktop\curso\Proyectos\Prueba1\Prueba1\Prueba1\bin\Debug\Prueba1.exe
+C:\Users\marcelino\Desktop\curso\Proyectos\Prueba1\Prueba1\Prueba1\bin\Debug\Prueba1.pdb
+C:\Users\marcelino\Desktop\curso\Proyectos\Prueba1\Prueba1\Prueba1\obj\Debug\Prueba1.csprojResolveAssemblyReference.cache
+C:\Users\marcelino\Desktop\curso\Proyectos\Prueba1\Prueba1\Prueba1\obj\Debug\Prueba1.Properties.Resources.resources
+C:\Users\marcelino\Desktop\curso\Proyectos\Prueba1\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.GenerateResource.Cache
+C:\Users\marcelino\Desktop\curso\Proyectos\Prueba1\Prueba1\Prueba1\obj\Debug\Prueba1.exe
+C:\Users\marcelino\Desktop\curso\Proyectos\Prueba1\Prueba1\Prueba1\obj\Debug\Prueba1.pdb
+C:\Users\marcelino\Desktop\curso\Proyectos\Prueba1\Prueba1\Prueba1\obj\Debug\Prueba1.frmPrincipal.resources

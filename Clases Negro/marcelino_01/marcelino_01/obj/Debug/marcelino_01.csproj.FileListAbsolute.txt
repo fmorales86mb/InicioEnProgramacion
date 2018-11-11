@@ -1,0 +1,9 @@
+C:\Users\marcelino\Desktop\curso\Proyectos\marcelino_01\marcelino_01\bin\Debug\marcelino_01.exe.config
+C:\Users\marcelino\Desktop\curso\Proyectos\marcelino_01\marcelino_01\bin\Debug\marcelino_01.exe
+C:\Users\marcelino\Desktop\curso\Proyectos\marcelino_01\marcelino_01\bin\Debug\marcelino_01.pdb
+C:\Users\marcelino\Desktop\curso\Proyectos\marcelino_01\marcelino_01\obj\Debug\marcelino_01.csprojResolveAssemblyReference.cache
+C:\Users\marcelino\Desktop\curso\Proyectos\marcelino_01\marcelino_01\obj\Debug\marcelino_01.frmPrincipal.resources
+C:\Users\marcelino\Desktop\curso\Proyectos\marcelino_01\marcelino_01\obj\Debug\marcelino_01.Properties.Resources.resources
+C:\Users\marcelino\Desktop\curso\Proyectos\marcelino_01\marcelino_01\obj\Debug\marcelino_01.csproj.GenerateResource.Cache
+C:\Users\marcelino\Desktop\curso\Proyectos\marcelino_01\marcelino_01\obj\Debug\marcelino_01.exe
+C:\Users\marcelino\Desktop\curso\Proyectos\marcelino_01\marcelino_01\obj\Debug\marcelino_01.pdb

@@ -1,0 +1,12 @@
+﻿INSERT INTO Autor (cNombre, cApellido) VALUES ('Jose', 'Hernandez');
+INSERT INTO Autor (cNombre, cApellido) VALUES ('Homero', '');
+INSERT INTO Autor (cNombre, cApellido) VALUES ('Carlos', 'Marx');
+INSERT INTO Autor (cNombre, cApellido) VALUES ('Miguel', 'de Cervantes');
+INSERT INTO Autor (cNombre, cApellido) VALUES ('Jorge Luis', 'Borges');
+INSERT INTO Autor (cNombre, cApellido) VALUES ('Federico', 'Garcia Lorca');
+INSERT INTO Autor (cNombre, cApellido) VALUES ('Edgar Allan', 'Poe');
+INSERT INTO Autor (cNombre, cApellido) VALUES ('Gabriel', 'Garcia Marquez');
+INSERT INTO Autor (cNombre, cApellido) VALUES ('Ruben', 'Dario');
+INSERT INTO Autor (cNombre, cApellido) VALUES ('Julio', 'Cortazar');
+INSERT INTO Autor (cNombre, cApellido) VALUES ('Mario', 'Benedetti');
+INSERT INTO Autor (cNombre, cApellido) VALUES ('Oscar', 'Wilde');

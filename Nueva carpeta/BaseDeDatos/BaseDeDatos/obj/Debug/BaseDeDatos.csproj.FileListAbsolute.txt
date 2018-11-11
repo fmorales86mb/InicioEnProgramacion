@@ -1,0 +1,9 @@
+F:\Programación\Proyectos\BaseDeDatos\BaseDeDatos\bin\Debug\BaseDeDatos.exe.config
+F:\Programación\Proyectos\BaseDeDatos\BaseDeDatos\bin\Debug\BaseDeDatos.exe
+F:\Programación\Proyectos\BaseDeDatos\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+F:\Programación\Proyectos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.csprojResolveAssemblyReference.cache
+F:\Programación\Proyectos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.frmPrincipal.resources
+F:\Programación\Proyectos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.Properties.Resources.resources
+F:\Programación\Proyectos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.GenerateResource.Cache
+F:\Programación\Proyectos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.exe
+F:\Programación\Proyectos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.pdb

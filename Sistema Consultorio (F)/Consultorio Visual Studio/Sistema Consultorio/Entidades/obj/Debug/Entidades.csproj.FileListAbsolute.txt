@@ -1,0 +1,5 @@
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Entidades\bin\Debug\Entidades.dll
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Entidades\bin\Debug\Entidades.pdb
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Entidades\obj\Debug\Entidades.dll
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Entidades\obj\Debug\Entidades.pdb

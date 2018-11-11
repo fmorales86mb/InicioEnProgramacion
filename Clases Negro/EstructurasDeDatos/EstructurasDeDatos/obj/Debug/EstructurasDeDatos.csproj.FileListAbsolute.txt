@@ -1,0 +1,12 @@
+c:\users\moncho\documents\visual studio 2012\Projects\EstructurasDeDatos\EstructurasDeDatos\bin\Debug\EstructurasDeDatos.exe.config
+c:\users\moncho\documents\visual studio 2012\Projects\EstructurasDeDatos\EstructurasDeDatos\obj\Debug\EstructurasDeDatos.csprojResolveAssemblyReference.cache
+c:\users\moncho\documents\visual studio 2012\Projects\EstructurasDeDatos\EstructurasDeDatos\obj\Debug\EstructurasDeDatos.Form1.resources
+c:\users\moncho\documents\visual studio 2012\Projects\EstructurasDeDatos\EstructurasDeDatos\obj\Debug\EstructurasDeDatos.Properties.Resources.resources
+c:\users\moncho\documents\visual studio 2012\Projects\EstructurasDeDatos\EstructurasDeDatos\obj\Debug\EstructurasDeDatos.csproj.GenerateResource.Cache
+c:\users\moncho\documents\visual studio 2012\Projects\EstructurasDeDatos\EstructurasDeDatos\bin\Debug\EstructurasDeDatos.exe
+c:\users\moncho\documents\visual studio 2012\Projects\EstructurasDeDatos\EstructurasDeDatos\bin\Debug\EstructurasDeDatos.pdb
+c:\users\moncho\documents\visual studio 2012\Projects\EstructurasDeDatos\EstructurasDeDatos\obj\Debug\EstructurasDeDatos.exe
+c:\users\moncho\documents\visual studio 2012\Projects\EstructurasDeDatos\EstructurasDeDatos\obj\Debug\EstructurasDeDatos.pdb
+G:\Programación\Clases Negro\EstructurasDeDatos\EstructurasDeDatos\bin\Debug\EstructurasDeDatos.exe.config
+G:\Programación\Clases Negro\EstructurasDeDatos\EstructurasDeDatos\obj\Debug\EstructurasDeDatos.exe
+G:\Programación\Clases Negro\EstructurasDeDatos\EstructurasDeDatos\obj\Debug\EstructurasDeDatos.pdb

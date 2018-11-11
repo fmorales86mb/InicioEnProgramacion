@@ -1,0 +1,9 @@
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Logica\bin\Debug\Logica.dll
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Logica\bin\Debug\Logica.pdb
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Logica\bin\Debug\Datos.dll
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Logica\bin\Debug\Entidades.dll
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Logica\bin\Debug\Datos.pdb
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Logica\bin\Debug\Entidades.pdb
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Logica\obj\Debug\Logica.dll
+D:\Desarrollo\Sistema Consultorio (F)\Consultorio Visual Studio\Sistema Consultorio\Logica\obj\Debug\Logica.pdb

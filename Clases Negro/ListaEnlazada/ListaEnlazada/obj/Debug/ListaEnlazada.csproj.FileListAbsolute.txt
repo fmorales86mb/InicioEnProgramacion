@@ -1,0 +1,9 @@
+C:\Users\marcelino\Desktop\curso\Proyectos\ListaEnlazada\ListaEnlazada\bin\Debug\ListaEnlazada.exe.config
+C:\Users\marcelino\Desktop\curso\Proyectos\ListaEnlazada\ListaEnlazada\bin\Debug\ListaEnlazada.exe
+C:\Users\marcelino\Desktop\curso\Proyectos\ListaEnlazada\ListaEnlazada\bin\Debug\ListaEnlazada.pdb
+C:\Users\marcelino\Desktop\curso\Proyectos\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.Form1.resources
+C:\Users\marcelino\Desktop\curso\Proyectos\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.Properties.Resources.resources
+C:\Users\marcelino\Desktop\curso\Proyectos\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.csproj.GenerateResource.Cache
+C:\Users\marcelino\Desktop\curso\Proyectos\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.exe
+C:\Users\marcelino\Desktop\curso\Proyectos\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.pdb
+C:\Users\marcelino\Desktop\curso\Proyectos\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.csprojResolveAssemblyReference.cache

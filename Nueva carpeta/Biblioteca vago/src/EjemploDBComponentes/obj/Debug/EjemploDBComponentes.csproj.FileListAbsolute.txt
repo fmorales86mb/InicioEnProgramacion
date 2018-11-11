@@ -1,0 +1,40 @@
+C:\Marcelino\Proyectos\EjemploDB\EjemploDBComponentes\EjemploDBComponentes\bin\Debug\EjemploDBComponentes.exe.config
+C:\Marcelino\Proyectos\EjemploDB\EjemploDBComponentes\EjemploDBComponentes\bin\Debug\EjemploDBComponentes.exe
+C:\Marcelino\Proyectos\EjemploDB\EjemploDBComponentes\EjemploDBComponentes\bin\Debug\EjemploDBComponentes.pdb
+C:\Marcelino\Proyectos\EjemploDB\EjemploDBComponentes\EjemploDBComponentes\obj\Debug\EjemploDBComponentes.csprojResolveAssemblyReference.cache
+C:\Marcelino\Proyectos\EjemploDB\EjemploDBComponentes\EjemploDBComponentes\obj\Debug\EjemploDBComponentes.frmPrincipal.resources
+C:\Marcelino\Proyectos\EjemploDB\EjemploDBComponentes\EjemploDBComponentes\obj\Debug\EjemploDBComponentes.Properties.Resources.resources
+C:\Marcelino\Proyectos\EjemploDB\EjemploDBComponentes\EjemploDBComponentes\obj\Debug\EjemploDBComponentes.csproj.GenerateResource.Cache
+C:\Marcelino\Proyectos\EjemploDB\EjemploDBComponentes\EjemploDBComponentes\obj\Debug\EjemploDBComponentes.exe
+C:\Marcelino\Proyectos\EjemploDB\EjemploDBComponentes\EjemploDBComponentes\obj\Debug\EjemploDBComponentes.pdb
+C:\Marcelino\Proyectos\EjemploDB\EjemploDBComponentes\EjemploDBComponentes\obj\Debug\EjemploDBComponentes.fListadoAutores.resources
+C:\Marcelino\Proyectos\Proyectos Fede\Biblioteca\src\EjemploDBComponentes\bin\Debug\EjemploDBComponentes.exe.config
+C:\Marcelino\Proyectos\Proyectos Fede\Biblioteca\src\EjemploDBComponentes\obj\Debug\EjemploDBComponentes.exe
+C:\Marcelino\Proyectos\Proyectos Fede\Biblioteca\src\EjemploDBComponentes\obj\Debug\EjemploDBComponentes.pdb
+C:\Marcelino\Proyectos\Proyectos Fede\Biblioteca\src\EjemploDBComponentes\bin\Debug\EjemploDBComponentes.exe
+C:\Marcelino\Proyectos\Proyectos Fede\Biblioteca\src\EjemploDBComponentes\bin\Debug\EjemploDBComponentes.pdb
+C:\Marcelino\Proyectos\Proyectos Fede\Biblioteca\src\EjemploDBComponentes\obj\Debug\EjemploDBComponentes.csprojResolveAssemblyReference.cache
+C:\Marcelino\Proyectos\Proyectos Fede\Biblioteca\src\EjemploDBComponentes\obj\Debug\EjemploDBComponentes.fListadoAutores.resources
+C:\Marcelino\Proyectos\Proyectos Fede\Biblioteca\src\EjemploDBComponentes\obj\Debug\EjemploDBComponentes.frmPrincipal.resources
+C:\Marcelino\Proyectos\Proyectos Fede\Biblioteca\src\EjemploDBComponentes\obj\Debug\EjemploDBComponentes.Properties.Resources.resources
+C:\Marcelino\Proyectos\Proyectos Fede\Biblioteca\src\EjemploDBComponentes\obj\Debug\EjemploDBComponentes.csproj.GenerateResource.Cache
+E:\Programación\Proyectos\Biblioteca vago\src\EjemploDBComponentes\bin\Debug\EjemploDBComponentes.exe.config
+E:\Programación\Proyectos\Biblioteca vago\src\EjemploDBComponentes\obj\Debug\EjemploDBComponentes.exe
+E:\Programación\Proyectos\Biblioteca vago\src\EjemploDBComponentes\obj\Debug\EjemploDBComponentes.pdb
+G:\Programación\Proyectos\Biblioteca vago\src\EjemploDBComponentes\bin\Debug\EjemploDBComponentes.exe.config
+G:\Programación\Proyectos\Biblioteca vago\src\EjemploDBComponentes\bin\Debug\EjemploDBComponentes.exe
+G:\Programación\Proyectos\Biblioteca vago\src\EjemploDBComponentes\bin\Debug\EjemploDBComponentes.pdb
+G:\Programación\Proyectos\Biblioteca vago\src\EjemploDBComponentes\bin\Debug\mscorlib.dll
+G:\Programación\Proyectos\Biblioteca vago\src\EjemploDBComponentes\bin\Debug\es\mscorlib.resources.dll
+G:\Programación\Proyectos\Biblioteca vago\src\EjemploDBComponentes\bin\Debug\normidna.nlp
+G:\Programación\Proyectos\Biblioteca vago\src\EjemploDBComponentes\bin\Debug\normnfc.nlp
+G:\Programación\Proyectos\Biblioteca vago\src\EjemploDBComponentes\bin\Debug\normnfd.nlp
+G:\Programación\Proyectos\Biblioteca vago\src\EjemploDBComponentes\bin\Debug\normnfkc.nlp
+G:\Programación\Proyectos\Biblioteca vago\src\EjemploDBComponentes\bin\Debug\normnfkd.nlp
+G:\Programación\Proyectos\Biblioteca vago\src\EjemploDBComponentes\obj\Debug\EjemploDBComponentes.csprojResolveAssemblyReference.cache
+G:\Programación\Proyectos\Biblioteca vago\src\EjemploDBComponentes\obj\Debug\EjemploDBComponentes.fListadoAutores.resources
+G:\Programación\Proyectos\Biblioteca vago\src\EjemploDBComponentes\obj\Debug\EjemploDBComponentes.frmPrincipal.resources
+G:\Programación\Proyectos\Biblioteca vago\src\EjemploDBComponentes\obj\Debug\EjemploDBComponentes.Properties.Resources.resources
+G:\Programación\Proyectos\Biblioteca vago\src\EjemploDBComponentes\obj\Debug\EjemploDBComponentes.csproj.GenerateResource.Cache
+G:\Programación\Proyectos\Biblioteca vago\src\EjemploDBComponentes\obj\Debug\EjemploDBComponentes.exe
+G:\Programación\Proyectos\Biblioteca vago\src\EjemploDBComponentes\obj\Debug\EjemploDBComponentes.pdb

@@ -1,0 +1,9 @@
+F:\Proyectos\Objetos\Objetos\bin\Debug\Objetos.exe.config
+F:\Proyectos\Objetos\Objetos\bin\Debug\Objetos.exe
+F:\Proyectos\Objetos\Objetos\bin\Debug\Objetos.pdb
+F:\Proyectos\Objetos\Objetos\obj\Debug\Objetos.csprojResolveAssemblyReference.cache
+F:\Proyectos\Objetos\Objetos\obj\Debug\Objetos.exe
+F:\Proyectos\Objetos\Objetos\obj\Debug\Objetos.pdb
+G:\Proyectos\Clases Negro\Objetos\Objetos\bin\Debug\Objetos.exe.config
+G:\Proyectos\Clases Negro\Objetos\Objetos\obj\Debug\Objetos.exe
+G:\Proyectos\Clases Negro\Objetos\Objetos\obj\Debug\Objetos.pdb

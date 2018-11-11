@@ -1,0 +1,34 @@
+F:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\bin\Debug\bibio fede 2.exe.config
+F:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\obj\Debug\bibio fede 2.exe
+F:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\obj\Debug\bibio fede 2.pdb
+F:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\bin\Debug\bibio fede 2.exe
+F:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\bin\Debug\bibio fede 2.pdb
+F:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\obj\Debug\bibio fede 2.csprojResolveAssemblyReference.cache
+F:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\obj\Debug\bibio_fede_2.FormularioPrueba.resources
+F:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\obj\Debug\bibio_fede_2.Properties.Resources.resources
+F:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\obj\Debug\bibio fede 2.csproj.GenerateResource.Cache
+G:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\bin\Debug\bibio fede 2.exe.config
+G:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\bin\Debug\bibio fede 2.exe
+G:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\bin\Debug\bibio fede 2.pdb
+G:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\obj\Debug\bibio_fede_2.FormularioPrueba.resources
+G:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\obj\Debug\bibio_fede_2.Formularios.ABMAutor.resources
+G:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\obj\Debug\bibio_fede_2.Formularios.ABMBiblioteca.resources
+G:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\obj\Debug\bibio_fede_2.Formularios.ABMEditorial.resources
+G:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\obj\Debug\bibio_fede_2.Formularios.ABMIdioma.resources
+G:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\obj\Debug\bibio_fede_2.Formularios.ABMLibro.resources
+G:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\obj\Debug\bibio_fede_2.Formularios.ABMTipoLibro.resources
+G:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\obj\Debug\bibio_fede_2.Properties.Resources.resources
+G:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\obj\Debug\bibio fede 2.csproj.GenerateResource.Cache
+G:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\obj\Debug\bibio fede 2.exe
+G:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\obj\Debug\bibio fede 2.pdb
+G:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\obj\Debug\bibio_fede_2.Listas.ListaAutor.resources
+G:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\obj\Debug\bibio_fede_2.Listas.ListaEditorial.resources
+G:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\obj\Debug\bibio_fede_2.Listas.ListaIdioma.resources
+G:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\obj\Debug\bibio_fede_2.Listas.ListaTipoLibro.resources
+G:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\obj\Debug\bibio_fede_2.Listas.ListaBiblioteca.resources
+G:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\obj\Debug\bibio_fede_2.Listas.ListaLibro.resources
+G:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\obj\Debug\bibio_fede_2.Formularios.ABMSocio.resources
+G:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\obj\Debug\bibio_fede_2.Listas.ListaSocio.resources
+G:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\obj\Debug\bibio_fede_2.Listas.ListaPrestamo.resources
+G:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\obj\Debug\bibio_fede_2.Formularios.ABMPrestamo.resources
+G:\Programación\Proyectos\Biblioteca fede\bibio fede 2\bibio fede 2\obj\Debug\bibio fede 2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+G:\Proyectos\Dibujo\Dibujo\bin\Debug\Dibujo.exe.config
+G:\Proyectos\Dibujo\Dibujo\bin\Debug\Dibujo.exe
+G:\Proyectos\Dibujo\Dibujo\bin\Debug\Dibujo.pdb
+G:\Proyectos\Dibujo\Dibujo\obj\Debug\Dibujo.csprojResolveAssemblyReference.cache
+G:\Proyectos\Dibujo\Dibujo\obj\Debug\Dibujo.frmPrincipal.resources
+G:\Proyectos\Dibujo\Dibujo\obj\Debug\Dibujo.Properties.Resources.resources
+G:\Proyectos\Dibujo\Dibujo\obj\Debug\Dibujo.csproj.GenerateResource.Cache
+G:\Proyectos\Dibujo\Dibujo\obj\Debug\Dibujo.exe
+G:\Proyectos\Dibujo\Dibujo\obj\Debug\Dibujo.pdb
+G:\Proyectos\Programas\Dibujo\Dibujo\bin\Debug\Dibujo.exe.config
+G:\Proyectos\Programas\Dibujo\Dibujo\obj\Debug\Dibujo.exe
+G:\Proyectos\Programas\Dibujo\Dibujo\obj\Debug\Dibujo.pdb

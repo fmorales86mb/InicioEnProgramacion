@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5BA4434C-AF14-4FC8-815C-C5853ACE3270}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>bibio_fede_2</RootNamespace>
+    <AssemblyName>bibio fede 2</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BD\BDPrestamo.cs" />
+    <Compile Include="Clases\Autor.cs" />
+    <Compile Include="BD\BD.cs" />
+    <Compile Include="BD\BDAutor.cs" />
+    <Compile Include="BD\BDBiblioteca.cs" />
+    <Compile Include="BD\BDEditorial.cs" />
+    <Compile Include="BD\BDIdioma.cs" />
+    <Compile Include="BD\BDLibro.cs" />
+    <Compile Include="BD\BDSocio.cs" />
+    <Compile Include="BD\BDTipoLibro.cs" />
+    <Compile Include="Clases\Biblioteca.cs" />
+    <Compile Include="Clases\Editorial.cs" />
+    <Compile Include="Clases\Prestamo.cs" />
+    <Compile Include="FormularioPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormularioPrincipal.Designer.cs">
+      <DependentUpon>FormularioPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABMs\ABMAutor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABMs\ABMAutor.Designer.cs">
+      <DependentUpon>ABMAutor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\Idioma.cs" />
+    <Compile Include="Clases\Libro.cs" />
+    <Compile Include="ABMs\ABMBiblioteca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABMs\ABMBiblioteca.Designer.cs">
+      <DependentUpon>ABMBiblioteca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABMs\ABMEditorial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABMs\ABMEditorial.Designer.cs">
+      <DependentUpon>ABMEditorial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABMs\ABMIdioma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABMs\ABMIdioma.Designer.cs">
+      <DependentUpon>ABMIdioma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABMs\ABMLibro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABMs\ABMLibro.Designer.cs">
+      <DependentUpon>ABMLibro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABMs\ABMPrestamo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABMs\ABMPrestamo.Designer.cs">
+      <DependentUpon>ABMPrestamo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABMs\ABMSocio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABMs\ABMSocio.Designer.cs">
+      <DependentUpon>ABMSocio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABMs\ABMTipoLibro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABMs\ABMTipoLibro.Designer.cs">
+      <DependentUpon>ABMTipoLibro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\ListaAutor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\ListaAutor.Designer.cs">
+      <DependentUpon>ListaAutor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\ListaBiblioteca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\ListaBiblioteca.Designer.cs">
+      <DependentUpon>ListaBiblioteca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\ListaEditorial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\ListaEditorial.Designer.cs">
+      <DependentUpon>ListaEditorial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\ListaIdioma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\ListaIdioma.Designer.cs">
+      <DependentUpon>ListaIdioma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\ListaLibro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\ListaLibro.Designer.cs">
+      <DependentUpon>ListaLibro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\ListaPrestamo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\ListaPrestamo.Designer.cs">
+      <DependentUpon>ListaPrestamo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\ListaSocio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\ListaSocio.Designer.cs">
+      <DependentUpon>ListaSocio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\ListaTipoLibro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\ListaTipoLibro.Designer.cs">
+      <DependentUpon>ListaTipoLibro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Clases\Socio.cs" />
+    <Compile Include="Clases\TipoLibro.cs" />
+    <EmbeddedResource Include="FormularioPrincipal.resx">
+      <DependentUpon>FormularioPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABMs\ABMAutor.resx">
+      <DependentUpon>ABMAutor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABMs\ABMBiblioteca.resx">
+      <DependentUpon>ABMBiblioteca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABMs\ABMEditorial.resx">
+      <DependentUpon>ABMEditorial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABMs\ABMIdioma.resx">
+      <DependentUpon>ABMIdioma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABMs\ABMLibro.resx">
+      <DependentUpon>ABMLibro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABMs\ABMPrestamo.resx">
+      <DependentUpon>ABMPrestamo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABMs\ABMSocio.resx">
+      <DependentUpon>ABMSocio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABMs\ABMTipoLibro.resx">
+      <DependentUpon>ABMTipoLibro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\ListaAutor.resx">
+      <DependentUpon>ListaAutor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\ListaBiblioteca.resx">
+      <DependentUpon>ListaBiblioteca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\ListaEditorial.resx">
+      <DependentUpon>ListaEditorial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\ListaIdioma.resx">
+      <DependentUpon>ListaIdioma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\ListaLibro.resx">
+      <DependentUpon>ListaLibro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\ListaPrestamo.resx">
+      <DependentUpon>ListaPrestamo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\ListaSocio.resx">
+      <DependentUpon>ListaSocio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\ListaTipoLibro.resx">
+      <DependentUpon>ListaTipoLibro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
